@@ -46,7 +46,11 @@ End-to-end solutions focused on solving meaningful business problems.
 
 Practical implementations of machine learning, statistical analysis, and data-driven problem solving.
 
-* Projects coming soon.
+### [Hotel Overbooking Optimization Engine](https://github.com/arsumjavaid-cs/hotel-overbooking-optimization)
+An end-to-end applied machine learning and decision-optimization system built to solve the hotel overbooking problem. Instead of stopping at cancellation prediction, the pipeline converts booking-level risk probabilities into actionable daily oversell recommendations that balance lost room revenue against overbooking penalties and customer service limits.
+
+**Tech Stack:** `Python` · `pandas` · `scikit-learn` · `SciPy` · `pytest`
+
 
 3. Mini Projects & Technical Experiments
 
