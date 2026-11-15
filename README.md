@@ -16,15 +16,15 @@ My focus is on moving beyond theoretical implementations and developing practica
 
 # Technical Toolkit
 
-Programming: Python, SQL
+**Programming:** Python, SQL
 
-Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 
-Machine Learning: Scikit-learn, Regression, Classification, Clustering, Ensemble Learning
+**Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Ensemble Learning
 
-Data Collection: BeautifulSoup, Web Scraping
+**Data Collection:** BeautifulSoup, Web Scraping
 
-Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
 
 # Projects
 
