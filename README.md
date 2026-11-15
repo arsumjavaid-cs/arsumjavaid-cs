@@ -14,7 +14,7 @@ My focus is on moving beyond theoretical implementations and developing practica
 * Exploring end-to-end AI applications, data pipelines, and model deployment.
 * Developing the problem-solving mindset required for Forward Deployed Engineering.
 
-🛠️ Technical Toolkit
+# Technical Toolkit
 
 Programming: Python, SQL
 
