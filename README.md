@@ -30,20 +30,14 @@ Data Collection: BeautifulSoup, Web Scraping
 
 Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code
 
-This section will evolve as I expand my technical skill set.
-
-⸻
-
 🚀 Projects
 
 1. Flagship Projects
-
 End-to-end solutions focused on solving meaningful business problems.
 
-* Projects coming soon.
+* Projects coming soon
 
 2. Applied AI/ML & Data Science Projects
-
 Practical implementations of machine learning, statistical analysis, and data-driven problem solving.
 
 ### [Hotel Overbooking Optimization Engine](https://github.com/arsumjavaid-cs/hotel-overbooking-optimization)
@@ -51,14 +45,11 @@ An end-to-end applied machine learning and decision-optimization system built to
 
 **Tech Stack:** `Python` · `pandas` · `scikit-learn` · `SciPy` · `pytest`
 
-
 3. Mini Projects & Technical Experiments
 
 Small implementations focused on strengthening programming and engineering fundamentals.
 
 * BeautifulSoup Web Scraping — Extracting, parsing, and structuring website data using Python.
-
-⸻
 
 📚 Currently Learning
 
@@ -69,15 +60,10 @@ Small implementations focused on strengthening programming and engineering funda
 * AI Engineering and LLM Applications
 * End-to-End ML Workflows
 
-⸻
-
 💡 My Approach
 
 I believe that good engineering starts with understanding the problem, not choosing the technology.
-
 My goal is to develop the ability to identify business challenges, translate them into technical requirements, build effective solutions, and communicate their impact.
-
-⸻
 
 🤝 Let’s Connect
 
