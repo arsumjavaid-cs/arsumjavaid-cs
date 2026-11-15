@@ -6,8 +6,6 @@ I’m passionate about building intelligent systems and applying machine learnin
 
 My focus is on moving beyond theoretical implementations and developing practical, end-to-end solutions that create measurable value.
 
-⸻
-
 🎯 What I’m Working Towards
 
 * Building a strong foundation in Machine Learning and AI Engineering.
@@ -15,8 +13,6 @@ My focus is on moving beyond theoretical implementations and developing practica
 * Learning how to translate business requirements into technical implementations.
 * Exploring end-to-end AI applications, data pipelines, and model deployment.
 * Developing the problem-solving mindset required for Forward Deployed Engineering.
-
-⸻
 
 🛠️ Technical Toolkit
 
