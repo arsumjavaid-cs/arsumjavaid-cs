@@ -26,7 +26,7 @@ Data Collection: BeautifulSoup, Web Scraping
 
 Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code
 
-🚀 # Projects
+# Projects
 
 1. Flagship Projects
 End-to-end solutions focused on solving meaningful business problems.
